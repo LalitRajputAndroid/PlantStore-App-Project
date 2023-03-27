@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="150dp"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:background="@drawable/singlerow_shape"
+    android:backgroundTint="@color/mywhite">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/t1img_id"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center"
+            android:contentDescription="TODO"
+            android:src="@drawable/potted_plant" />
+
+        <TextView
+            android:id="@+id/t2name_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Planet Name"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:textColor="@color/black"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/t3price_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="R.S 150"
+            android:textColor="@color/black"
+            android:layout_marginLeft="10dp"
+            android:textSize="12sp"
+            android:layout_marginBottom="5dp"
+            />
+
+        <Button
+            android:id="@+id/addtocartbtn_id"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:background="@drawable/cardbtn_shape"
+            android:text="Add to cart" />
+
+    </LinearLayout>
+
+</LinearLayout>

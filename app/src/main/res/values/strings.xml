@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Plants Store</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="its_time_to_plant_something_new">its time to plant something new!</string>
+    <string name="todo">TODO</string>
+    <string name="plants">Plants</string>
+    <string name="flowers">Flowers</string>
+    <string name="gardening">Gardening</string>
+    <string name="pots">Pots</string>
+</resources>

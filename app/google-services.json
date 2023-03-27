@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385321739201",
+    "project_id": "plants-store-3a714",
+    "storage_bucket": "plants-store-3a714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385321739201:android:3cca9bad0f3073f6e30540",
+        "android_client_info": {
+          "package_name": "com.example.plantsstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385321739201-u0gete23c7hnbl7h82bn9j0df4dk2aau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA20GHrZJXWNnuXoXDgH0_PLKikQaZDpig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385321739201-u0gete23c7hnbl7h82bn9j0df4dk2aau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
